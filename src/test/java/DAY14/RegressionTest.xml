@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite: All Person, Equipment and Task">
+    <test name="Smoke Test All APIs" preserve-order="true">
+        <classes>
+            <!-- All Person -->
+            <class name="personTestSuites.personDetach.ADD.TEST002_DETACH_ADD_EDIT_DELETE_SW_Curr_To_Plus3_Validate_From_A_B" />
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->
+        Attachments area
